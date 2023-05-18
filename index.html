@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ikhya ulummuddin's portfolio</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+	<link href="https://fonts.cdnfonts.com/css/satoshi" rel="stylesheet">
+	<style type="text/css">
+		body{
+			font-family: 'Satoshi', sans-serif;
+			color:#111;
+			cursor:default;
+		}
+		@media only screen and (max-width: 800px) {
+  			.pemisah{
+    			margin-bottom:32px !important;
+  			}
+  			.pemisah2{
+    			margin-bottom:8px !important;
+  			}
+  			.pemisah3{
+    			margin-bottom:16px !important;
+  			}
+		}
+	</style>
+</head>
+<body>
+	<div class="container" style="max-width:800px !important;">
+		<div class="row" style="margin-top:84px;">
+			<div class="col" style="margin-top:32px;font-weight:bold;font-style:italic;">
+				ulum.
+			</div>
+			<div class="col-lg-auto" style="margin-top:16px;">
+				<table>
+					<tr>
+						<td style="font-weight:bold;">email</td>
+					</tr>
+					<tr>
+						<td style="color:#777">haloulum@gmail.com</td>
+					</tr>
+				</table>
+			</div>
+			<div class="col col-lg-2" style="margin-top:16px;">
+				<table>
+					<tr>
+						<td style="font-weight:bold;">dribbble</td>
+					</tr>
+					<tr>
+						<td><a href="https://dribbble.com/ulummdd" style="color:#777;">ulummdd</a></td>
+					</tr>
+				</table>
+			</div>
+			<div class="col col-lg-2" style="margin-top:16px;">
+				<table>
+					<tr>
+						<td style="font-weight:bold;">medium</td>
+					</tr>
+					<tr>
+						<td><a href="https://medium.com/@haloulum" style="color:#777;">haloulum</a></td>
+					</tr>
+				</table>
+			</div>
+			<div class="col col-lg-2" style="margin-top:16px;">
+				<table>
+					<tr>
+						<td style="font-weight:bold;">github</td>
+					</tr>
+					<tr>
+						<td><a href="https://github.com/ulummdd" style="color:#777;">ulummdd</a></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<hr>
+		<h4 style="margin-top:40px;line-height:32px;font-weight:bold;">
+			namaku ikhya ulummuddin. saya mempunyai kemampuan dalam mendesain (desain grafis dan <i>ui/ux design</i>) dan <i>web development</i>
+		</h4>
+		<h4 style="margin-top:24px;margin-bottom:40px;line-height:32px;font-weight:bold;color:#777;">
+			untuk beberapa waktu ini saya fokus untuk memperdalam mendesain ui (<i>design system</i> dan <i>responsive design</i>) dan merancang ux (<i>design thinking</i>). 
+		</h4>
+		<hr>
+		<div class="study-case">
+			<p style="color:#2980b9;font-weight:bold;font-style:italic;margin-top:40px;font-size:20px;">studi kasus</p>
+			<div class="row">
+				<div class="col-lg-6 pemisah">
+					<img src="case-study1.png" class="img-thumbnail" alt="Studi kasus Basbis">
+					<h5 style="line-height:32px;margin-top:8px;">aplikasi portal informasi dan pemesanan tiket bus antar kota</h5>
+					<a href="https://medium.com/@haloulum/studi-kasus-ui-ux-aplikasi-portal-informasi-dan-pemesanan-tiket-bus-antar-kota-7ff8354ad02" style="color:#111;font-size:18px;">baca selengkapnya</a>
+				</div>
+				<div class="col-lg-6">
+					<img src="case-study2.png" class="img-thumbnail" alt="Studi kasus Basbis">
+					<h5 style="line-height:32px;margin-top:8px;"><i>redesign</i> gojek pada alur pembelian paket data</h5>
+					<a href="https://medium.com/@haloulum/gojek-flow-pembelian-paket-data-studi-kasus-ux-3c8ca0c5cd38" style="color:#111;font-size:18px;">baca selengkapnya</a>
+				</div>
+			</div>
+		</div>
+		<div class="design-exploration" style="margin-bottom:40px;">
+			<p style="color:#2980b9;font-weight:bold;font-style:italic;margin-top:40px;font-size:20px;">eksplorasi desain</p>
+			<div class="row">
+				<div class="col-lg-6 pemisah">
+					<img src="exploration1.png" class="img-thumbnail" alt="Studi kasus Basbis">
+					<h5 style="line-height:32px;margin-top:8px;">basbis, aplikasi tiket bus</h5>
+					<a href="https://dribbble.com/shots/20739561--Basbis-Bus-Ticket-App" style="color:#111;font-size:18px;">lihat selengkapnya</a>
+				</div>
+				<div class="col-lg-6">
+					<img src="exploration2.png" class="img-thumbnail" alt="Studi kasus Basbis">
+					<h5 style="line-height:32px;margin-top:8px;">fufud, aplikasi pengiriman makanan</h5>
+					<a href="https://dribbble.com/shots/18913710--Food-Delivery-App" style="color:#111;font-size:18px;">lihat selengkapnya</a>
+				</div>
+			</div>
+		</div>
+		<hr>
+		<div class="experience" style="margin-bottom:40px;">
+			<p style="color:#2980b9;font-weight:bold;font-style:italic;margin-top:40px;margin-bottom:32px;font-size:20px;">pengalaman</p>
+			<div class="row">
+				<div class="col-lg-3 pemisah2">
+					<h5>jasaweb</h5>
+				</div>
+				<div class="col-lg-9">
+					<table>
+						<tr><td><h5><i>praktek kerja lapangan (smk)</i></h5></td></tr>
+						<tr><td>surabaya, sep 2017 - nov 2017</td></tr>
+						<tr><td style="color:#777;padding-top:16px;">
+							belajar cara mendesain, membuat, mengembangkan, dan memonitoring <i>website</i> klien perusahaan.
+						</td></tr>
+					</table>
+				</div>
+			</div>
+			<div class="row" style="margin-top:24px;">
+				<div class="col-lg-3 pemisah2">
+					<h5>dinas perpustakaan dan kearsipan kota surabaya</h5>
+				</div>
+				<div class="col-lg-9">
+					<table>
+						<tr><td><h5><i>praktek kerja lapangan (universitas)</i></h5></td></tr>
+						<tr><td>surabaya, jan 2023 - feb 2023</td></tr>
+						<tr><td style="color:#777;padding-top:16px;">
+							mempelajari alur proses penyimpanan, peminjaman, dan pencatatan arsip. Saya juga membantu pembuatan konten video dan foto kegiatan di instansi tersebut.
+						</td></tr>
+					</table>
+				</div>
+			</div>
+			<div class="row" style="margin-top:24px;">
+				<div class="col-lg-3 pemisah2">
+					<h5>ninja xpress, jawa timur</h5>
+				</div>
+				<div class="col-lg-9">
+					<table>
+						<tr><td><h5><i>address verification</i></h5></td></tr>
+						<tr><td>surabaya, jul 2019 - agu 2022</td></tr>
+						<tr><td style="color:#777;padding-top:16px;">
+							saya bertanggung jawab dalam memverifikasi data titik lokasi koordinat tempat paket yang harus dikirim di dalam sistem.
+						</td></tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<hr>
+		<div class="skills" style="margin-bottom:40px;">
+			<p style="color:#2980b9;font-weight:bold;font-style:italic;margin-top:40px;margin-bottom:32px;font-size:20px;">keahlian</p>
+			<div class="row">
+				<div class="col-lg-4 pemisah3">
+					<table>
+						<tr><td><h5>desain (grafis dan ui/ux)</h5></td></tr>
+						<tr><td style="color:#777">figma, adobe xd, adobe photoshop</td></tr>
+					</table>
+				</div>
+				<div class="col-lg-4 pemisah3">
+					<table>
+						<tr><td><h5><i>web development</i></h5></td></tr>
+						<tr><td style="color:#777">html, css, php, bootstrap, codeigniter, javascript</td></tr>
+					</table>
+				</div>
+				<div class="col-lg-4">
+					<table>
+						<tr><td><h5>audio/video</h5></td></tr>
+						<tr><td style="color:#777">fl studio, capcut</td></tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<hr>
+		<div class="education" style="margin-bottom:40px;">
+			<p style="color:#2980b9;font-weight:bold;font-style:italic;margin-top:40px;margin-bottom:32px;font-size:20px;">pendidikan</p>
+			<table style="margin-bottom:24px;">
+				<tr><td><h5><i>S1 - informatika</i></h5></td></tr>
+				<tr><td>upn "veteran" jawa timur (surabaya), 2020 - sekarang</td></tr>
+			</table>
+			<table>
+				<tr><td><h5><i>SMK - rekayasa perangkat lunak</i></h5></td></tr>
+				<tr><td>smk negeri 2 surabaya (surabaya), 2016 - 2019</td></tr>
+			</table>
+		</div>
+		<hr>
+		<div class="text-center" style="margin-bottom:84px;">
+			dibuat oleh <b>ikhya ulummuddin</b> di surabaya, indonesia - <u>2023</u>
+		</div>
+	</div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+</body>
+</html>
